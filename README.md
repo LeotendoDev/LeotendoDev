@@ -1,8 +1,7 @@
 # Hi there 👋, my name is Leonard Steinhoff
 #### I am not the BSOD, i am a German programmer
-![I am not the BSOD, i am a German programmer](banner.png)
-
-I've been programming for about 3 and a half years now and I'm still enjoying it as much today as I did at day one!
+![I am not the BSOD, i am a German programmer](https://visme.co/blog/wp-content/uploads/2021/01/header-3.png)
+#### I've been programming for about 3 and a half years now and I'm still enjoying it as much today as I did at day one!
 
 ### About me:
 - 🔭 I’m currently working on <b>My own programming language</b> 
