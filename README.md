@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Leonard Steinhoff
 #### I am not the BSOD, i am a German programmer
-![I am not the BSOD, i am a German programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am not the BSOD, i am a German programmer](banner.png)
 
 I've been programming for about 3 and a half years now and I'm still enjoying it as much today as I did at day one!
 
