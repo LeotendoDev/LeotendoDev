@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning <b>Reverse Engineering</b> 
 - 🤔 I’m looking for help with <b>bugs...</b> 
 - 💬 Ask me about <b>Malware development</b> 
-- 📫 How to reach me: <b><leotendosteinhoff@gmail.com></b> 
+- 📫 How to reach me: <b><leonardsteinhoff@protonmail.com></b> 
 - ⚡ Fun fact: <b>The C programming language is 50 years old!</b> 
 
 ### Skills:
