@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leonard Steinhoff</h1>
+<h1 align="center">Hi 👋, I'm Leo</h1>
 <h3 align="center">A Embedded System/Language Developer</h3>
 
 <h3 align="left">Random Stuff:</h3>
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Low Level Development**
 
-- 📫 How to reach me **leonardsteinhoff@protonmail.com**
+- 📫 How to reach me 
 
 - 📄 Know about my experiences [https://www.github.com/LeotendoDev](https://www.github.com/LeotendoDev)
 
